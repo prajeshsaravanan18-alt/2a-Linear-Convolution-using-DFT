@@ -7,7 +7,7 @@ PC installed with SCILAB
 
 PROGRAM:
 LINEAR CONVOLUTION
-
+```
 clc; 
 clear; 
 x = [1 2 3 4]; 
@@ -42,7 +42,7 @@ title('Graphical Representation of output Signal y');
 
 
 
-
+```
 
 ### CALCULATIONS:
 
